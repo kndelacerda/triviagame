@@ -1,0 +1,62 @@
+html {
+	background: url(http://wallpapercave.com/wp/1tkIHs4.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+#page-wrap {
+	width: 400px;
+	margin: 50px auto;
+	padding: 20px;
+	background: white;
+	-moz-box-shadow: 0 0 20px black;
+	-webkit-box-shadow: 0 0 20px black;
+	box-shadow: 0 0 20px black;
+}
+.jumbotron {
+	box-sizing: border-box;
+	height: 650px;
+	background-color: transparent;
+}
+.main-button-container {
+	margin-top: 330px;
+	max-width: 200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.timer-p {
+	margin-top: 40px;
+}
+.answer:hover {
+	background: gold;
+}
+.answer {
+	padding-top: 7px;
+	height: 45px;
+	color: black;
+	padding-left: 14px;
+	background-color: white;
+	border-radius: 4px;
+}
+.first-answer {
+	margin-top: 40px;
+}
+.reset-button {
+	margin-top: 40px;
+  max-width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.summary-right {
+	margin-top: 40px;
+}
+img {
+	height: 70px;
+}
+body {
+	background-color: transparent;
+	color: black;
+	font-family: 'Shadows Into Light Two', cursive;
+	font-family: 'Barrio', cursive;
+}
